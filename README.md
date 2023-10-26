@@ -1,4 +1,4 @@
 # Hello-World-
 Sharing Platform
- #H2
+ # Me
  Currently a Software Engineering student at The University of Glasgow
